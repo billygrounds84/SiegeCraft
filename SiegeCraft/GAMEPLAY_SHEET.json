@@ -1,0 +1,14 @@
+{
+  "systems": [
+    {"id":"normal_minecraft","mode":"vanilla","status":"preserved"},
+    {"id":"operator_selection","mode":"siege","status":"prototype"},
+    {"id":"teams","mode":"siege","status":"planned"},
+    {"id":"bomb","mode":"siege","status":"planned"},
+    {"id":"hostage","mode":"siege","status":"planned"},
+    {"id":"secure_area","mode":"siege","status":"planned"},
+    {"id":"weapons","mode":"siege","status":"planned"},
+    {"id":"abilities","mode":"siege","status":"planned"},
+    {"id":"multiplayer","mode":"siege","status":"planned"},
+    {"id":"dedicated_maps","mode":"siege","status":"planned"}
+  ]
+}

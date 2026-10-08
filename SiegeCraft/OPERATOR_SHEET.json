@@ -1,0 +1,6 @@
+{
+  "source": "Ubisoft current Rainbow Six Siege operator roster, checked 2026-10-08",
+  "count": 78,
+  "columns": ["id", "name", "side", "weapons", "unique_ability", "secondary_gadgets", "status"],
+  "status": "roster-only foundation; gameplay cells intentionally unfilled until implemented and tested"
+}

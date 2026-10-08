@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "siegecraft",
+  "version": "${version}",
+  "name": "SiegeCraft",
+  "description": "An optional Rainbow Six Siege-style game mode for Minecraft Java Edition. Normal Minecraft remains intact.",
+  "authors": ["Billy", "OpenAI"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.billy.siegecraft.SiegeCraft"],
+    "client": ["com.billy.siegecraft.client.SiegeCraftClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.1",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
